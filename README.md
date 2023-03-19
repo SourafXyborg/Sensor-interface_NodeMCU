@@ -15,3 +15,10 @@ list of sensors are:
 Also the IoT application using Ubidots are:
 1) Led control
 2) Temp and Hum 
+
+
+Also include some sample projects with the above:
+1) Distance_measuring_system_and_notification_alert
+2) Home_automation
+3) Intruder_alert
+4) Temperature_humidity_and_moisture_alert
